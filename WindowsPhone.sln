@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduledTaskAgent", "ScheduledTaskAgent2\ScheduledTaskAgent.csproj", "{065B2522-C21C-49DE-80C8-47D0C5EB9663}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetMeRecord", "LetMeRecord\LetMeRecord.csproj", "{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,24 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Debug|ARM.ActiveCfg = Debug|ARM
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Debug|ARM.Build.0 = Debug|ARM
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Debug|x86.ActiveCfg = Debug|x86
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Debug|x86.Build.0 = Debug|x86
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Release|Any CPU.Build.0 = Release|Any CPU
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Release|ARM.ActiveCfg = Release|ARM
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Release|ARM.Build.0 = Release|ARM
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Release|x86.ActiveCfg = Release|x86
-		{065B2522-C21C-49DE-80C8-47D0C5EB9663}.Release|x86.Build.0 = Release|x86
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|ARM.Build.0 = Debug|ARM
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|x86.ActiveCfg = Debug|x86
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|x86.Build.0 = Debug|x86
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Debug|x86.Deploy.0 = Debug|x86
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|ARM.ActiveCfg = Release|ARM
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|ARM.Build.0 = Release|ARM
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|ARM.Deploy.0 = Release|ARM
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|x86.ActiveCfg = Release|x86
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|x86.Build.0 = Release|x86
+		{307FA07D-BD41-4B58-A830-7BC1CF3CA17D}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
